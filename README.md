@@ -1,4 +1,5 @@
 Paint Application
+
 Description
 The Paint Application is a simple drawing tool that allows users to create ellipses, circles, triangles, squares, and rectangles, on a canvas. It provides basic drawing functionalities like drawing, saving, and loading drawings.
 
@@ -7,10 +8,12 @@ Drawing Shapes: Users can draw ellipses, circles, triangles, squares, and rectan
 Undo/Redo: Supports undo and redo functionalities for correcting mistakes or redoing actions.
 Saving/Loading: Allows users to save their drawings to a file and load them back later.
 Shape Information: Provides information about the drawn shapes, including their dimensions and positions.
+
 Installation
 Clone the repository to your local machine.
 Open the project in your preferred IDE or code editor.
 Build and run the application.
+
 Usage
 Choose a shape from the toolbar.
 Click and drag on the canvas to draw the selected shape.
@@ -24,6 +27,5 @@ Contributions are welcome! If you find any bugs or have suggestions for new feat
 
 
 
-Authors
-Author Name - Stanko
+Authors: Stanko
 
