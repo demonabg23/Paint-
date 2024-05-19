@@ -27,5 +27,5 @@ Contributions are welcome! If you find any bugs or have suggestions for new feat
 
 
 
-Authors: Stanko
+Author: demonabg23
 
